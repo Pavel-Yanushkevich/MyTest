@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">News</string>
+    <string-array name="categories">
+        <item>Новости</item>
+        <item>Демотиваторы</item>
+        <item>Картинки</item>
+        <item>Видео</item>
+        <item>Юмор</item>
+        <item>Apple</item>
+        <item>Интернет</item>
+        <item>Компьютеры</item>
+        <item>Гаджеты</item>
+        <item>Мобильные телефоны</item>
+        <item>Секс</item>
+        <item>Девушки</item>
+        <item>Интересное</item>
+        <item>Мировые новости</item>
+        <item>Новости Беларуси</item>
+        <item>Происшествия</item>
+        <item>Спорт</item>
+        <item>Кино и шоубизнес</item>
+        <item>Авто</item>
+        <item>Красота и здоровье</item>
+        <item>Креатив</item>
+    </string-array>
+</resources>
